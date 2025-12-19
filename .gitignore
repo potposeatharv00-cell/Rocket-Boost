@@ -1,0 +1,12 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+UserSettings/
+
+# Visual Studio / Unity files
+*.csproj
+*.sln
+
+# VS Code
+.vscode/
